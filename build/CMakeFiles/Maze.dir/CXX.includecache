@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/SOIL.h
+
+/home/stumbo/CG_DAZUOYE/MAP/src/maze.cpp
+stdio.h
+-
+iostream
+-
+stdlib.h
+-
+GL/glu.h
+-
+GL/glut.h
+-
+GL/gl.h
+-
+fstream
+-
+vector
+-
+math.h
+-
+time.h
+-
+string
+-
+string.h
+-
+SOIL.h
+/home/stumbo/CG_DAZUOYE/MAP/src/SOIL.h
+
